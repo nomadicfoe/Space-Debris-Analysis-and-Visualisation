@@ -84,5 +84,18 @@ The `data` folder includes three versions of the dataset for testing and scaling
 4. **Orbit Analysis**: `orbit_specific_analysis.py` performs orbit classification and density analysis.
 5. **Collision Detection**: `collision_detection.py` detects and visualizes collision risks interactively.
 
+## Sample Results
+1. **Orbit Paths**:  3D orbit visualizations around Earth
+   ![WhatsApp Image 2024-12-07 at 23 59 56](https://github.com/user-attachments/assets/faff3ccd-4364-4212-b72d-a01b42b14880)
+2. **Orbit Analysis**: orbit classification and density analysis.
+   ![WhatsApp Image 2024-12-08 at 00 07 04](https://github.com/user-attachments/assets/5166c6a6-42d3-48fe-af50-e4841a7b237b)
+   ![WhatsApp Image 2024-12-08 at 00 06 21](https://github.com/user-attachments/assets/4bb4af54-ec1e-4e9a-a2c4-42c37c39b1a5)
+   ![WhatsApp Image 2024-12-08 at 00 05 02](https://github.com/user-attachments/assets/7e441330-7ebd-4e77-800f-b89bfe75427c)
+
+4. **Collision Detection**: detects and visualizes collision risks interactively.
+   ![WhatsApp Image 2024-12-08 at 00 05 22](https://github.com/user-attachments/assets/4d04f659-7c11-4835-9d1d-200ab999d844)
+   ![WhatsApp Image 2024-12-08 at 00 03 52](https://github.com/user-attachments/assets/5101d635-a922-416a-930d-d2d8916b1e28)
+   ![WhatsApp Image 2024-12-08 at 00 03 13](https://github.com/user-attachments/assets/bca8a33a-f4ba-41a1-9cf5-bb93787233dc)
+
 ### Author
 Developed by **Sumanth Paila**
